@@ -22,6 +22,12 @@ Categorias de Produtos: Organização dos produtos em categorias específicas, c
 
 Filtragem e Pesquisa Avançada: Funcionalidade para os usuários filtrarem os produtos por tipo, marca, preço e outras características, além de uma barra de pesquisa para buscas rápidas
 
+## Tecnologias Utilizadas até o momento
+
+- HTML
+- CSS
+- JavaScript
+
 
 ## Demonstração
 éssa pagina é a loja, onde se clicar na pag, abre uma descrição sobre o produto, se quizer comprar pode adicionar ao carrinho, e no carrinho consegue finalizar a compra.
