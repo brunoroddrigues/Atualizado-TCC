@@ -1,38 +1,33 @@
-***Bruno Aparecido Rodrigues***
-
 # Plataforma Artes Marciais
-Esse projéto é uma plataforma que estou desenvolvendo pro meu TCC no curso de sistemas para internet
 
+**Autor:** Bruno Aparecido Rodrigues
 
-## Índice
-
-- [Sobre](#sobre)
-- [Funcionalidades](#funcionalidades)
-- [Demonstração](#demonstração)
-
-
+![Plataforma Artes Marciais](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/cc397cae-c141-4353-9e43-417b97915753)
 
 ## Sobre
-Esse trabalho tem como objetivo mostrar a importancia da tecnologia com o esporte, mostrando os benficios, a história, Ética e respeito, Equipamento de proteção pra evitar lesões e ter um rendimento melhor durante a pratica.
 
+Este projeto é uma plataforma desenvolvida como trabalho de conclusão de curso no curso de Sistemas para Internet. Ele visa demonstrar a importância da tecnologia no mundo das artes marciais, destacando benefícios, história, ética, respeito e equipamentos de proteção para uma prática segura e com melhor rendimento.
 
 ## Funcionalidades
-Catálogo de Produtos: Uma ampla seleção de produtos relacionados a artes marciais, incluindo equipamentos de proteção, uniformes, sacos de pancada, luvas, faixas, kimonos, entre outros.
 
-Categorias de Produtos: Organização dos produtos em categorias específicas, como "Artes Marciais Tradicionais", "Equipamentos de Proteção", "Acessórios" e "Roupas".
+- **Catálogo de Produtos:** Uma ampla seleção de produtos relacionados a artes marciais, incluindo equipamentos de proteção, uniformes, sacos de pancada, luvas, faixas, kimonos, entre outros.
+- **Categorias de Produtos:** Organização dos produtos em categorias específicas, como "Artes Marciais Tradicionais", "Equipamentos de Proteção", "Acessórios" e "Roupas".
+- **Filtragem e Pesquisa Avançada:** Funcionalidade para os usuários filtrarem os produtos por tipo, marca, preço e outras características, além de uma barra de pesquisa para buscas rápidas.
 
-Filtragem e Pesquisa Avançada: Funcionalidade para os usuários filtrarem os produtos por tipo, marca, preço e outras características, além de uma barra de pesquisa para buscas rápidas
-
- ***Tecnologias usadas até o momento*** 
+## Tecnologias Utilizadas
 
 - HTML
 - CSS
 - JavaScript
 
-
 ## Demonstração
-éssa pagina é a loja, onde se clicar na pag, abre uma descrição sobre o produto, se quizer comprar pode adicionar ao carrinho, e no carrinho consegue finalizar a compra.
-![img1](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/cc397cae-c141-4353-9e43-417b97915753)
-![login](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/1ce1860f-3269-4e24-b204-98e29d99bd6c)
-***Aqui nesta página está falando sobre as artes marciais, incluindo histórias, ética e respeito, o que é a arte, etc.***
-![tela](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/f7944263-c67b-4d03-a181-450572a7f226)
+
+**Página da Loja:**
+![Página da Loja](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/cc397cae-c141-4353-9e43-417b97915753)
+
+**Página de Login:**
+![Página de Login](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/1ce1860f-3269-4e24-b204-98e29d99bd6c)
+
+**Página de Informações sobre Artes Marciais:**
+![Página de Informações sobre Artes Marciais](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142
+
