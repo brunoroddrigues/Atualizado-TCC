@@ -2,8 +2,6 @@
 
 **Autor:** Bruno Aparecido Rodrigues
 
-![Plataforma Artes Marciais](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/cc397cae-c141-4353-9e43-417b97915753)
-
 ## Sobre
 
 Este projeto é uma plataforma desenvolvida como trabalho de conclusão de curso no curso de Sistemas para Internet. Ele visa demonstrar a importância da tecnologia no mundo das artes marciais, destacando benefícios, história, ética, respeito e equipamentos de proteção para uma prática segura e com melhor rendimento.
