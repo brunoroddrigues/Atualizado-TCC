@@ -8,7 +8,9 @@ Esse projéto é uma plataforma que estou desenvolvendo pro meu TCC no curso de 
 
 - [Sobre](#sobre)
 - [Funcionalidades](#funcionalidades)
+- [Tecnologias](#tecnologia)
 - [Demonstração](#demonstração)
+
 
 
 ## Sobre
@@ -22,7 +24,7 @@ Categorias de Produtos: Organização dos produtos em categorias específicas, c
 
 Filtragem e Pesquisa Avançada: Funcionalidade para os usuários filtrarem os produtos por tipo, marca, preço e outras características, além de uma barra de pesquisa para buscas rápidas
 
-## Tecnologias Utilizadas até o momento
+## Tecnologias 
 
 - HTML
 - CSS
