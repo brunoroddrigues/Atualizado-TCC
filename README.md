@@ -26,7 +26,7 @@ Este projeto é uma plataforma desenvolvida como trabalho de conclusão de curso
 
 ![Página da Loja](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/cc397cae-c141-4353-9e43-417b97915753)
 
-Aqui nesta página está falando sobre as artes marciais, incluindo histórias, ética e respeito, o que é a arte, etc.
+Aqui nesta página está o login, se caso nao tiver clicar em criar cadastro.
 
 **Página de Login:**
 ![Página de Login](https://github.com/brunoroddrigues/Plataforma-TCC-atualizada/assets/142831593/1ce1860f-3269-4e24-b204-98e29d99bd6c)
